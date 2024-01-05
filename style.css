@@ -1,0 +1,138 @@
+body {
+    font-family: "Inter";
+    margin: 0 10%;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Rubik Doodle Shadow";
+    text-align: center;
+}
+
+h3 {
+    text-decoration: underline;
+}
+
+h2, h3, h4 {
+    font-family: Poppins;
+    text-align: center;
+    margin-left: auto;
+    
+}
+
+.container {
+    border-top: 2px solid black;
+    padding-bottom: 40px;
+}
+
+.square1 {
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #ffed30;
+    position: relative;
+    left: 20px;
+
+}
+
+.square2 {
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #fff47e;
+    position: relative;
+    left: 30px;
+}
+
+.square3 {
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #ff64cb;
+    position: relative;
+    left: 40px;
+}
+
+.square4 {
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #ffa1e0;
+    position: relative;
+    left: 50px;
+}
+
+.square5 {
+    height: 150px;
+    width: 150px;
+    box-sizing: border-box;
+    background-color: #6b3e26;
+    position: relative;
+    left: 60px;
+}
+
+.square1, .square2, .square3, .square4, .square5 {
+    display: inline-block;
+    font-weight: 700;
+}
+
+.text-style-block {
+    border-top: 2px groove black;
+    border-bottom: 2px groove black;
+    padding-bottom: 50px;
+    text-align: justify;
+}
+
+.rubik-doodle-shadow-normal {
+    font-family: "Rubik Doodle Shadow";
+    font-weight: 400;
+}
+
+.poppins-normal {
+    font-family: poppins;
+    font-weight: 400;
+}
+
+.poppins-bold {
+    font-family: poppins;
+    font-weight: 700;
+}
+
+.poppins-italic {
+    font-family: poppins;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.inter-normal {
+    font-family: inter;
+    font-weight: 400;
+}
+
+.inter-bold {
+    font-family: inter;
+    font-weight: 700;
+}
+
+.inter-italic {
+    font-family: inter;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.text-style-block {
+    border-top: 2px groove black;
+    border-bottom: 2px groove black;
+    padding-bottom: 50px;
+}
+
+.list1, .list2, .list3 {
+    text-align: justify;
+    display: inline-block;
+    padding: 0 40px;
+}
+
+.paragraph-title {
+    font-size: 24px;
+    padding-left: 20%;
+}
